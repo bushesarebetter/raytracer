@@ -1,3 +1,5 @@
+[![Tests](https://github.com/bushesarebetter/raytracer/actions/workflows/tests.yml/badge.svg)](https://github.com/bushesarebetter/raytracer/actions/workflows/tests.yml)
+
 # raytracer
 
 A small ray tracer in numpy. Every pixel's ray is traced at once as one big array, so a full 800x600 frame with reflections and 4 samples per pixel renders in about 7 seconds.
